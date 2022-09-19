@@ -1,4 +1,6 @@
-# evnts
+#My evnts
+#Event Manager is an App that displays all the upcoming events of the various Clubs and Departments of the Institute. Users can also add their To-Do List in the app itself.
+#Used Flutter for Frontend and Firebase for Authentication
 
 A new Flutter project.
 
